@@ -1,0 +1,25 @@
+body{
+   width: 1100px;
+   height: 2000px;
+}
+.header{
+   width: 1100px;
+   height: 133px;
+   background: #333333;
+}
+.ds{
+   font-size: 60px;
+   color: #EEEEEE;
+   font-family: AdobeInvisFont, MyriadPro-Regular;
+   line-height: 133px;
+   margin-left: 53px;
+   margin: 0, auto;
+   float: left;
+}
+.navig{
+   text-align: right;
+   margin-right: 53px;
+   margin: 0, auto;
+   float: right;
+   line-height: 133px;
+}
